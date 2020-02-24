@@ -1,6 +1,5 @@
 node_modules
 .serverless
-package-lock.json
 .webpack
 example
 .DS_Store
