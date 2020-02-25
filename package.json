@@ -1,6 +1,6 @@
 {
-  "name": "botservice",
-  "version": "2.0.0",
+  "name": "@zoomus/botservice",
+  "version": "0.1.0",
   "description": "core lib for @zoomus/chatbot-cli",
   "main": "index.js",
   "scripts": {
